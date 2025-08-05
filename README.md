@@ -1,2 +1,2 @@
 # TestRepo
-Welcome to Devops engineering foundation. leaning github syncing with CSR
+this is my first demo syncing github repository with CSR 
